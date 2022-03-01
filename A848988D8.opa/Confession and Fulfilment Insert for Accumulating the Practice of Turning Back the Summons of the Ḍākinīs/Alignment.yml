@@ -1,0 +1,19 @@
+segment_sources:
+  PFC53ECE3:
+    type: origin_type
+    relation: translation
+    language: en
+  P44CD1B12:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5865a6c66b9744b9b9b917d9abd8e52a:
+    PFC53ECE3: 938a26d65295431da846296851587f9d
+    P44CD1B12: ebb3bf5cd24e4edb9fac2d6f7c50642f
+  24378754796a4d829c5194c9014af5d0:
+    PFC53ECE3: 6bb536b6dc97435d9774b37c5ca04f3d
+    P44CD1B12: b36792f142e542d8b999cdcf619d10f6
+  6fff55bb88aa470999e970e9915ce073:
+    PFC53ECE3: 22bf038cdcad431ab2b4e5cae2fb05c4
+    P44CD1B12: 3942bda82fba4fcbb1bbb2efe4f9b573
